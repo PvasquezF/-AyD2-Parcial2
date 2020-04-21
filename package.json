@@ -1,0 +1,27 @@
+{
+  "name": "-ayd2-parcial2",
+  "version": "1.0.0",
+  "description": "Parcial analisis y diseño de sistemas 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PvasquezF/-AyD2-Parcial2.git"
+  },
+  "author": "pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PvasquezF/-AyD2-Parcial2/issues"
+  },
+  "homepage": "https://github.com/PvasquezF/-AyD2-Parcial2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.6"
+  }
+}
